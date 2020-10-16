@@ -8,7 +8,7 @@ public class Product {
 	int quantity;
 	double price;
 	public double getPrice(){
-		retutn price;
+		return price;
 	}
 	public int getQuantity(){
 		return quantity;
